@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+<category>
+<pattern>Como você está?</pattern>
+<template> Estou bem. </template>
+</category>
+
+<category>
+<pattern> O que aconteceu na guerra de tróia? /<pattern>
+<template>O estopim do conflito armado foi o sequestro de Helena, esposa do rei espartano Menelau, por Páris, príncipe de Troia. Diz a lenda que ela era tão bonita, que o irmão de Menelau, Agamemnon, rei de Micenas, juntou suas tropas para invadir as muralhas de Troia e tentar resgatá-la. Para saber mais:<a href="https://revistagalileu.globo.com/Sociedade/Historia/noticia/2019/08/um-resumo-sobre-o-que-foi-guerra-de-troia.html#:~:text=O%20estopim%20do%20conflito%20armado,Troia%20e%20tentar%20resgat%C3%A1%2Dla." target="_blank">Revista Galileu </a> </template>
+</category>
+
+<category>
+<pattern> o que aconteceu na Guerra de Tróia? </pattern>
+<template>O estopim do conflito armado foi o sequestro de Helena, esposa do rei espartano Menelau, por Páris, príncipe de Troia. Diz a lenda que ela era tão bonita, que o irmão de Menelau, Agamemnon, rei de Micenas, juntou suas tropas para invadir as muralhas de Troia e tentar resgatá-la.Para saber mais:<a href="https://revistagalileu.globo.com/Sociedade/Historia/noticia/2019/08/um-resumo-sobre-o-que-foi-guerra-de-troia.html#:~:text=O%20estopim%20do%20conflito%20armado,Troia%20e%20tentar%20resgat%C3%A1%2Dla." target="_blank">Revista Galileu </a></template>
+</category>
+
+<category>
+<pattern> O que anconteceu na Guerra de Tróia</pattern>
+<template>O estopim do conflito armado foi o sequestro de Helena, esposa do rei espartano Menelau, por Páris, príncipe de Troia. Diz a lenda que ela era tão bonita, que o irmão de Menelau, Agamemnon, rei de Micenas, juntou suas tropas para invadir as muralhas de Troia e tentar resgatá-la.Para saber mais:<a href="https://revistagalileu.globo.com/Sociedade/Historia/noticia/2019/08/um-resumo-sobre-o-que-foi-guerra-de-troia.html#:~:text=O%20estopim%20do%20conflito%20armado,Troia%20e%20tentar%20resgat%C3%A1%2Dla." target="_blank">Revista Galileu </a></pattern>
+</category>
+
+<category>
+<pattern> O que aconteceu na guerra de troia</pattern>
+<template>O estopim do conflito armado foi o sequestro de Helena, esposa do rei espartano Menelau, por Páris, príncipe de Troia. Diz a lenda que ela era tão bonita, que o irmão de Menelau, Agamemnon, rei de Micenas, juntou suas tropas para invadir as muralhas de Troia e tentar resgatá-la.Para saber mais:<a href="https://revistagalileu.globo.com/Sociedade/Historia/noticia/2019/08/um-resumo-sobre-o-que-foi-guerra-de-troia.html#:~:text=O%20estopim%20do%20conflito%20armado,Troia%20e%20tentar%20resgat%C3%A1%2Dla." target="_blank">Revista Galileu </a></template>
+</category>
+
+<category>
+<pattern>o que aconteceu na guerra de tróia</pattern>
+<template>O estopim do conflito armado foi o sequestro de Helena, esposa do rei espartano Menelau, por Páris, príncipe de Troia. Diz a lenda que ela era tão bonita, que o irmão de Menelau, Agamemnon, rei de Micenas, juntou suas tropas para invadir as muralhas de Troia e tentar resgatá-la. Para saber mais:<a href="https://revistagalileu.globo.com/Sociedade/Historia/noticia/2019/08/um-resumo-sobre-o-que-foi-guerra-de-troia.html#:~:text=O%20estopim%20do%20conflito%20armado,Troia%20e%20tentar%20resgat%C3%A1%2Dla." target="_blank">Revista Galileu </a></template>
+</category>
+
+<category>
+<pattern> O que é mitologia grega?</pattern>
+<template>A Mitologia Grega reúne um conjunto de lendas e mitos que foram criados pelos gregos na antiguidade. O objetivo principal era de explicar alguns fatos, como a origem da vida, a vida após a morte, ou até mesmo os fenômenos da natureza.Pra saber mais: <a href="https://www.todamateria.com.br/mitologia-grega/#:~:text=A%20Mitologia%20Grega%20re%C3%BAne%20um,mesmo%20os%20fen%C3%B4menos%20da%20natureza" target="_blank">Toda matéria</a><template>
+</category>
+
+<category>
+<pattern> o que é mitologia grega?</pattern>
+<template>A Mitologia Grega reúne um conjunto de lendas e mitos que foram criados pelos gregos na antiguidade. O objetivo principal era de explicar alguns fatos, como a origem da vida, a vida após a morte, ou até mesmo os fenômenos da natureza..Pra saber mais: <a href="https://www.todamateria.com.br/mitologia-grega/#:~:text=A%20Mitologia%20Grega%20re%C3%BAne%20um,mesmo%20os%20fen%C3%B4menos%20da%20natureza" target="_blank">Toda matéria</a></template>
+</category>
+
+<category>
+<pattern>o que e mitologia grega?</pattern>
+<template>A Mitologia Grega reúne um conjunto de lendas e mitos que foram criados pelos gregos na antiguidade. O objetivo principal era de explicar alguns fatos, como a origem da vida, a vida após a morte, ou até mesmo os fenômenos da natureza..Pra saber mais: <a href="https://www.todamateria.com.br/mitologia-grega/#:~:text=A%20Mitologia%20Grega%20re%C3%BAne%20um,mesmo%20os%20fen%C3%B4menos%20da%20natureza" target="_blank">Toda matéria</a></template>
+</category>
+
+<category>
+<pattern>O que é Mitologia Grega?</pattern>
+<template>A Mitologia Grega reúne um conjunto de lendas e mitos que foram criados pelos gregos na antiguidade. O objetivo principal era de explicar alguns fatos, como a origem da vida, a vida após a morte, ou até mesmo os fenômenos da natureza..Pra saber mais: <a href="https://www.todamateria.com.br/mitologia-grega/#:~:text=A%20Mitologia%20Grega%20re%C3%BAne%20um,mesmo%20os%20fen%C3%B4menos%20da%20natureza" target="_blank">Toda matéria</a></pattern>
+</category>
+
+<category>
+<pattern>o que é mitologia grega</pattern>
+<template>A Mitologia Grega reúne um conjunto de lendas e mitos que foram criados pelos gregos na antiguidade. O objetivo principal era de explicar alguns fatos, como a origem da vida, a vida após a morte, ou até mesmo os fenômenos da natureza.Pra saber mais: <a href="https://www.todamateria.com.br/mitologia-grega/#:~:text=A%20Mitologia%20Grega%20re%C3%BAne%20um,mesmo%20os%20fen%C3%B4menos%20da%20natureza" target="_blank">Toda matéria</a></pattern>
+</category>
+
+<category>
+<pattern>Mitologia grega</pattern>
+<template>A Mitologia Grega reúne um conjunto de lendas e mitos que foram criados pelos gregos na antiguidade. O objetivo principal era de explicar alguns fatos, como a origem da vida, a vida após a morte, ou até mesmo os fenômenos da natureza.Pra saber mais: <a href="https://www.todamateria.com.br/mitologia-grega/#:~:text=A%20Mitologia%20Grega%20re%C3%BAne%20um,mesmo%20os%20fen%C3%B4menos%20da%20natureza" target="_blank">Toda matéria</a></pattern>
+</category>
+
+<category>
+<pattern>mitologia grega</pattern>
+<template>A Mitologia Grega reúne um conjunto de lendas e mitos que foram criados pelos gregos na antiguidade. O objetivo principal era de explicar alguns fatos, como a origem da vida, a vida após a morte, ou até mesmo os fenômenos da natureza.Pra saber mais: <a href="https://www.todamateria.com.br/mitologia-grega/#:~:text=A%20Mitologia%20Grega%20re%C3%BAne%20um,mesmo%20os%20fen%C3%B4menos%20da%20natureza" target="_blank">Toda matéria</a></pattern>
+</category>
+
+<category>
+<pattern>MITOLOGIA GREGA</pattern>
+<template>A Mitologia Grega reúne um conjunto de lendas e mitos que foram criados pelos gregos na antiguidade. O objetivo principal era de explicar alguns fatos, como a origem da vida, a vida após a morte, ou até mesmo os fenômenos da natureza.Pra saber mais: <a href="https://www.todamateria.com.br/mitologia-grega/#:~:text=A%20Mitologia%20Grega%20re%C3%BAne%20um,mesmo%20os%20fen%C3%B4menos%20da%20natureza" target="_blank">Toda matéria</a></pattern>
+</category>
+
+<category>
+<pattern>O que é Mitologia Grega</pattern>
+<template>A Mitologia Grega reúne um conjunto de lendas e mitos que foram criados pelos gregos na antiguidade. O objetivo principal era de explicar alguns fatos, como a origem da vida, a vida após a morte, ou até mesmo os fenômenos da natureza.Pra saber mais: <a href="https://www.todamateria.com.br/mitologia-grega/#:~:text=A%20Mitologia%20Grega%20re%C3%BAne%20um,mesmo%20os%20fen%C3%B4menos%20da%20natureza" target="_blank">Toda matéria</a></pattern>
+</category>
+
+<category>
+<pattern>O que e Mitologia Grega</pattern>
+<template>A Mitologia Grega reúne um conjunto de lendas e mitos que foram criados pelos gregos na antiguidade. O objetivo principal era de explicar alguns fatos, como a origem da vida, a vida após a morte, ou até mesmo os fenômenos da natureza.Pra saber mais: <a href="https://www.todamateria.com.br/mitologia-grega/#:~:text=A%20Mitologia%20Grega%20re%C3%BAne%20um,mesmo%20os%20fen%C3%B4menos%20da%20natureza" target="_blank">Toda matéria</a></pattern>
+</category>
+
+<category>
+<pattern>Oque é Mitologia Grega?</pattern>
+<template>A Mitologia Grega reúne um conjunto de lendas e mitos que foram criados pelos gregos na antiguidade. O objetivo principal era de explicar alguns fatos, como a origem da vida, a vida após a morte, ou até mesmo os fenômenos da natureza. Pra saber mais: <a href="https://www.todamateria.com.br/mitologia-grega/#:~:text=A%20Mitologia%20Grega%20re%C3%BAne%20um,mesmo%20os%20fen%C3%B4menos%20da%20natureza" target="_blank">Toda matéria</a></pattern>
+</category>
+
+<category>
+<pattern> O que causou a Segunda Guerra Mundial?</pattern>
+<template>. A Segunda Guerra Mundial teve como grande causa o expansionismo e o militarismo da Alemanha Nazista. Essa postura da Alemanha refletia diretamente a ideologia dos nazistas, que haviam alcançado o poder da Alemanha em 1933. O fascismo italiano e o nazismo alemão são os grandes exemplos.Pra saber mais:<a href="https://brasilescola.uol.com.br/historiag/segunda-guerra-mundial.htm#:~:text=Causas,poder%20da%20Alemanha%20em%201933.&text=O%20fascismo%20italiano%20e%20o%20nazismo%20alem%C3%A3o%20s%C3%A3o%20os%20grandes%20exemplos." target="_blank">Brasilescola</a></template>
+</category>
+
+<category>
+<pattern> o que causou a segunda guerra mundial?</pattern>
+<template>. A Segunda Guerra Mundial teve como grande causa o expansionismo e o militarismo da Alemanha Nazista. Essa postura da Alemanha refletia diretamente a ideologia dos nazistas, que haviam alcançado o poder da Alemanha em 1933. O fascismo italiano e o nazismo alemão são os grandes exemplos.Pra saber mais:<a href="https://brasilescola.uol.com.br/historiag/segunda-guerra-mundial.htm#:~:text=Causas,poder%20da%20Alemanha%20em%201933.&text=O%20fascismo%20italiano%20e%20o%20nazismo%20alem%C3%A3o%20s%C3%A3o%20os%20grandes%20exemplos." target="_blank">Brasilescola</a></template>
+</category>
+
+<category>
+<pattern> o que causou a segunda guerra mundial</pattern>
+<template>. A Segunda Guerra Mundial teve como grande causa o expansionismo e o militarismo da Alemanha Nazista. Essa postura da Alemanha refletia diretamente a ideologia dos nazistas, que haviam alcançado o poder da Alemanha em 1933. O fascismo italiano e o nazismo alemão são os grandes exemplos.Pra saber mais:<a href="https://brasilescola.uol.com.br/historiag/segunda-guerra-mundial.htm#:~:text=Causas,poder%20da%20Alemanha%20em%201933.&text=O%20fascismo%20italiano%20e%20o%20nazismo%20alem%C3%A3o%20s%C3%A3o%20os%20grandes%20exemplos." target="_blank">Brasilescola</a></template>
+</category>
+
+<category>
+<pattern> O que causou a Segunda guerra mundial?</pattern>
+<template>. A Segunda Guerra Mundial teve como grande causa o expansionismo e o militarismo da Alemanha Nazista. Essa postura da Alemanha refletia diretamente a ideologia dos nazistas, que haviam alcançado o poder da Alemanha em 1933. O fascismo italiano e o nazismo alemão são os grandes exemplos.Pra saber mais:<a href="https://brasilescola.uol.com.br/historiag/segunda-guerra-mundial.htm#:~:text=Causas,poder%20da%20Alemanha%20em%201933.&text=O%20fascismo%20italiano%20e%20o%20nazismo%20alem%C3%A3o%20s%C3%A3o%20os%20grandes%20exemplos." target="_blank">Brasilescola</a></template>
+</category>
+
+<category>
+<pattern> O que causou a Segunda Guerra?</pattern>
+<template>. A Segunda Guerra Mundial teve como grande causa o expansionismo e o militarismo da Alemanha Nazista. Essa postura da Alemanha refletia diretamente a ideologia dos nazistas, que haviam alcançado o poder da Alemanha em 1933. O fascismo italiano e o nazismo alemão são os grandes exemplos.Pra saber mais:<a href="https://brasilescola.uol.com.br/historiag/segunda-guerra-mundial.htm#:~:text=Causas,poder%20da%20Alemanha%20em%201933.&text=O%20fascismo%20italiano%20e%20o%20nazismo%20alem%C3%A3o%20s%C3%A3o%20os%20grandes%20exemplos." target="_blank">Brasilescola</a></template>
+</category>
+
+</aiml>
